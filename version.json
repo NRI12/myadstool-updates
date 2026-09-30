@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.5.zip",
-  "sha256": "6c88dbcb66b003652e58891111f8af6edcd54211189068b3184b2f1c98686357",
+  "version": "1.1.6",
+  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.6.zip",
+  "sha256": "f27b19e02c6bbebe2329363d7930c46cfe4ffa2509d9fe31e407ad3f3ed37361",
   "encoding": "raw",
-  "release_notes": "Test publish - verify git push mechanism"
+  "release_notes": "Them tu dong cap nhat (GitHub-based), bo tinh nang tao nhieu profile, cap nhat he so realtime khong can F5, sua UI bi che nut"
 }
