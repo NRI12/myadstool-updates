@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.6.zip",
-  "sha256": "f27b19e02c6bbebe2329363d7930c46cfe4ffa2509d9fe31e407ad3f3ed37361",
+  "version": "1.1.7",
+  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.7.zip",
+  "sha256": "ff8b70c4a78b97e24120dd589b3834ad20d0619fd27ab46142d745c1bd763e45",
   "encoding": "raw",
-  "release_notes": "Them tu dong cap nhat (GitHub-based), bo tinh nang tao nhieu profile, cap nhat he so realtime khong can F5, sua UI bi che nut"
+  "release_notes": "Chuyen sang build onedir - het loi ngau nhien 'Failed to load Python DLL' do antivirus quet giua luc onefile tu giai nen. Tu ban nay app dung co che cap nhat GitHub moi hoan toan on dinh."
 }
