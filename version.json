@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.7.zip",
-  "sha256": "ff8b70c4a78b97e24120dd589b3834ad20d0619fd27ab46142d745c1bd763e45",
+  "version": "1.1.8",
+  "url": "https://raw.githubusercontent.com/NRI12/myadstool-updates/main/releases/AdsTool-1.1.8.zip",
+  "sha256": "d0691effe63a08de0f1f5f3ae93c04996d695df0e974fb035f8c3d019553b1bc",
   "encoding": "raw",
-  "release_notes": "Chuyen sang build onedir - het loi ngau nhien 'Failed to load Python DLL' do antivirus quet giua luc onefile tu giai nen. Tu ban nay app dung co che cap nhat GitHub moi hoan toan on dinh."
+  "release_notes": "Sua loi tu-cap-nhat: ban 1.1.7 truoc bi build nham voi code cu (thieu _internal khi tu copy). Tu dong cap nhat ngay, khong con hoi Yes/No."
 }
